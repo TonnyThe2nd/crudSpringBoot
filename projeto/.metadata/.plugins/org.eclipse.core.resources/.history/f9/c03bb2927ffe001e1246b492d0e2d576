@@ -1,0 +1,9 @@
+package com.projeto.userdept.repositories;
+
+public class UserRepository {
+
+	public UserRepository() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
